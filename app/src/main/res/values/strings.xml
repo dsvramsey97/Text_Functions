@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text_Functions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="batemantextedit1">Enter text!</string>
+    <string name="batecheckbold1">New CheckBox</string>
+    <string name="batecheck1">Bold!</string>
+    <string name="batecheckita1">Italics!</string>
+    <string name="title_activity_output__text">Output_Text</string>
+    <string name="chumtext">Large Text</string>
+    <string name="chumback">Back</string>
+    <string name="chumexit">Exit</string>
+    <string name="chummatension">Edit Text</string>
+</resources>
